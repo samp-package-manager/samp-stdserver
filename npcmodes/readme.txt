@@ -1,0 +1,1 @@
+put your npcmodes files in this folder.
